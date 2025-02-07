@@ -1,0 +1,35 @@
+[2022-08-01 10:52:16] [info]  [37112] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-08-01 10:52:16] [info]  [37112] Running Service 'Tomcat9'...
+[2022-08-01 10:52:16] [info]  [44420] Starting service...
+[2022-08-01 10:52:16] [error] [44420] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'
+[2022-08-01 10:52:16] [error] [44420] The system cannot find the path specified.
+[2022-08-01 10:52:16] [error] [44420] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll', home '(null)'.
+[2022-08-01 10:52:16] [error] [44420] The system cannot find the path specified.
+[2022-08-01 10:52:16] [error] [44420] Failed creating Java 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'.
+[2022-08-01 10:52:16] [error] [44420] The system cannot find the path specified.
+[2022-08-01 10:52:16] [error] [44420] ServiceStart returned 1.
+[2022-08-01 10:52:16] [error] [44420] The system cannot find the path specified.
+[2022-08-01 10:52:16] [info]  [37112] Run service finished.
+[2022-08-01 10:52:16] [info]  [37112] Apache Commons Daemon procrun finished.
+[2022-08-01 10:52:49] [info]  [38808] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-08-01 10:52:49] [info]  [38808] Running Service 'Tomcat9'...
+[2022-08-01 10:52:49] [info]  [39872] Starting service...
+[2022-08-01 10:52:49] [error] [39872] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'
+[2022-08-01 10:52:49] [error] [39872] The system cannot find the path specified.
+[2022-08-01 10:52:49] [error] [39872] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll', home '(null)'.
+[2022-08-01 10:52:49] [error] [39872] The system cannot find the path specified.
+[2022-08-01 10:52:49] [error] [39872] Failed creating Java 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'.
+[2022-08-01 10:52:49] [error] [39872] The system cannot find the path specified.
+[2022-08-01 10:52:49] [error] [39872] ServiceStart returned 1.
+[2022-08-01 10:52:49] [error] [39872] The system cannot find the path specified.
+[2022-08-01 10:52:49] [info]  [38808] Run service finished.
+[2022-08-01 10:52:49] [info]  [38808] Apache Commons Daemon procrun finished.
+[2022-08-01 10:58:20] [info]  [47000] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-08-01 10:58:20] [info]  [47000] Running Service 'Tomcat9'...
+[2022-08-01 10:58:20] [info]  [45028] Starting service...
+[2022-08-01 10:58:20] [info]  [45028] Service started in 30 milliseconds.
+[2022-08-04 11:55:23] [info]  [47000] Service SERVICE_CONTROL_STOP signalled.
+[2022-08-04 11:55:23] [info]  [547196] Stopping service...
+[2022-08-04 12:00:25] [info]  [547196] Service stop thread completed.
+[2022-08-04 12:00:25] [info]  [47000] Run service finished.
+[2022-08-04 12:00:25] [info]  [47000] Apache Commons Daemon procrun finished.

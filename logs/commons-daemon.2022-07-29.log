@@ -1,0 +1,39 @@
+[2022-07-29 16:52:22] [info]  [97428] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-07-29 16:52:22] [info]  [97428] Running Service 'Tomcat9'...
+[2022-07-29 16:52:22] [info]  [98100] Starting service...
+[2022-07-29 16:52:22] [error] [98100] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'
+[2022-07-29 16:52:22] [error] [98100] The system cannot find the path specified.
+[2022-07-29 16:52:22] [error] [98100] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll', home '(null)'.
+[2022-07-29 16:52:22] [error] [98100] The system cannot find the path specified.
+[2022-07-29 16:52:22] [error] [98100] Failed creating Java 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'.
+[2022-07-29 16:52:22] [error] [98100] The system cannot find the path specified.
+[2022-07-29 16:52:22] [error] [98100] ServiceStart returned 1.
+[2022-07-29 16:52:22] [error] [98100] The system cannot find the path specified.
+[2022-07-29 16:52:22] [info]  [97428] Run service finished.
+[2022-07-29 16:52:22] [info]  [97428] Apache Commons Daemon procrun finished.
+[2022-07-29 16:52:37] [info]  [102756] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-07-29 16:52:37] [info]  [102756] Running Service 'Tomcat9'...
+[2022-07-29 16:52:37] [info]  [102816] Starting service...
+[2022-07-29 16:52:37] [error] [102816] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'
+[2022-07-29 16:52:37] [error] [102816] The system cannot find the path specified.
+[2022-07-29 16:52:37] [error] [102816] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll', home '(null)'.
+[2022-07-29 16:52:37] [error] [102816] The system cannot find the path specified.
+[2022-07-29 16:52:37] [error] [102816] Failed creating Java 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'.
+[2022-07-29 16:52:37] [error] [102816] The system cannot find the path specified.
+[2022-07-29 16:52:37] [error] [102816] ServiceStart returned 1.
+[2022-07-29 16:52:37] [error] [102816] The system cannot find the path specified.
+[2022-07-29 16:52:37] [info]  [102756] Run service finished.
+[2022-07-29 16:52:37] [info]  [102756] Apache Commons Daemon procrun finished.
+[2022-07-29 16:52:44] [info]  [102932] Apache Commons Daemon procrun (1.3.1.0 64-bit) started.
+[2022-07-29 16:52:44] [info]  [102932] Running Service 'Tomcat9'...
+[2022-07-29 16:52:44] [info]  [102996] Starting service...
+[2022-07-29 16:52:44] [error] [102996] Invalid RuntimeLib specified 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'
+[2022-07-29 16:52:44] [error] [102996] The system cannot find the path specified.
+[2022-07-29 16:52:44] [error] [102996] Failed to load JVM DLL 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll', home '(null)'.
+[2022-07-29 16:52:44] [error] [102996] The system cannot find the path specified.
+[2022-07-29 16:52:44] [error] [102996] Failed creating Java 'C:\Program Files\Java\jre1.8.0_291\bin\server\jvm.dll'.
+[2022-07-29 16:52:44] [error] [102996] The system cannot find the path specified.
+[2022-07-29 16:52:44] [error] [102996] ServiceStart returned 1.
+[2022-07-29 16:52:44] [error] [102996] The system cannot find the path specified.
+[2022-07-29 16:52:44] [info]  [102932] Run service finished.
+[2022-07-29 16:52:44] [info]  [102932] Apache Commons Daemon procrun finished.
